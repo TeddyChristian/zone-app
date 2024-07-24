@@ -1,4 +1,4 @@
-# 📝 Simple Task Planner
+# 📝 Simple Task Planner (WORK IN PROGRESS)
 
 Welcome to the **Simple Task Planner** app! This project is a simple task or to-do planner that I created to learn React Native. The app is built using **React Native** and **Supabase** for the backend.
 
